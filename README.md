@@ -9,6 +9,13 @@ This repository contains a consolidated public-facing PDF with proof of filings:
 
 ---
 
+🧠 Pro Tip
+
+You can copy any section of this repo and paste it into ChatGPT or another AI assistant to help decode, explain, or teach it back to you.
+Try it on equations, glossary terms, or architecture diagrams — it works.
+
+---
+
 ## 📂 File Contents
 - `reciepts.pdf`  
   Contains the official USPTO trademark filing receipt and the abstract/first page of two provisional patent applications.
