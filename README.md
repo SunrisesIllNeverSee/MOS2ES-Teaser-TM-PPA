@@ -1,5 +1,7 @@
 # MOS²ES™ | Trademark & Provisional Patents (Teaser)
 
+All rights reserved; public teaser only
+
 This repository contains a consolidated public-facing PDF with proof of filings:  
 
 - **Trademark Filing Receipt** for MOS§ES™ (IC 042: SaaS Signal Governance & Compression Systems)  
@@ -23,8 +25,9 @@ Try it on equations, glossary terms, or architecture diagrams — it works.
 ---
 
 ## 🔑 Integrity
-- SHA-256 hash:  895ab90c80aa0c49c76a4d62bd58893929846e708eb11c4df43835b7bb0fd13b  reciepts.pdf
 
+SHA-256: 895ab90c80aa0c49c76a4d62bd58893929846e708eb11c4df43835b7bb0fd13b  
+File: reciepts.pdf
 
 
 Anyone can recompute this hash locally to confirm file integrity.
