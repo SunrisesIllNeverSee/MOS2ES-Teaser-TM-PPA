@@ -1,10 +1,10 @@
-# MOS²ES™ | Trademark & Provisional Patents (Teaser)
+# MO§ES™ | Trademark & Provisional Patents (Teaser)
 
 All rights reserved; public teaser only
 
 This repository contains a consolidated public-facing PDF with proof of filings:  
 
-- **Trademark Filing Receipt** for MOS§ES™ (IC 042: SaaS Signal Governance & Compression Systems)  
+- **Trademark Filing Receipt** for MO§ES™ (IC 042: SaaS Signal Governance & Compression Systems)  
 - **Provisional Patent Application Abstracts**  
   - *Modus Operandi System for Signal Encoding & Scaling Expansion (MOS²ES)*  
   - *Signal Compression System Engine and Mediator (SCS Engine)*  
@@ -37,6 +37,7 @@ Anyone can recompute this hash locally to confirm file integrity.
 ## ⚖️ Trademark Notice
 **MOS§ES™**, **MOS2ES**, and **MOS²ES** all refer to the same protected system:  
 *Modus Operandi System for Signal Encoding & Scaling Expansion.*
+*Modus Operandi Signal/Scaling Expansion System.*
 
 - **MOS§ES™** — stylized legal mark (filed)  
 - **MOS2ES** — ASCII/plaintext usage  
