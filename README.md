@@ -1,40 +1,39 @@
-# MO§ES™ Artifact — Trademark Filing Announcement  
-**Artifact ID:** MO§ES-IP-0001  
-**Date:** September 23, 2025  
+# MOS²ES™ | Trademark & Provisional Patents (Teaser)
+
+This repository contains a consolidated public-facing PDF with proof of filings:  
+
+- **Trademark Filing Receipt** for MOS§ES™ (IC 042: SaaS Signal Governance & Compression Systems)  
+- **Provisional Patent Application Abstracts**  
+  - *Modus Operandi System for Signal Encoding & Scaling Expansion (MOS²ES)*  
+  - *Signal Compression System Engine and Mediator (SCS Engine)*  
 
 ---
 
-## 🧬 Overview  
-**MO§ES™** — now officially filed under U.S. Trademark Law, Section 1(b) (Intent-to-Use) in **International Class 042**.
+## 📂 File Contents
+- `reciepts.pdf`  
+  Contains the official USPTO trademark filing receipt and the abstract/first page of two provisional patent applications.
 
 ---
 
+## 🔑 Integrity
+- SHA-256 hash:  
 
-## Trademark Notice
 
+
+Anyone can recompute this hash locally to confirm file integrity.
+
+---
+
+## ⚖️ Trademark Notice
 **MOS§ES™**, **MOS2ES**, and **MOS²ES** all refer to the same protected system:  
 *Modus Operandi System for Signal Encoding & Scaling Expansion.*
 
-- **MOS§ES™** — stylized legal mark, as filed.  
-- **MOS2ES** — ASCII/plaintext usage.  
-- **MOS²ES** — mathematical/typographic usage.  
+- **MOS§ES™** — stylized legal mark (filed)  
+- **MOS2ES** — ASCII/plaintext usage  
+- **MOS²ES** — mathematical/typographic usage  
 
-All three names designate the same architecture and are protected under U.S. Trademark law (IC 042: SaaS Signal Governance & Compression Systems).
+All three designate the same architecture under U.S. Trademark law (IC 042).
 
----
-
-## 📜 Trademark Description (as filed)
-
-> “Software as a service featuring systems for signal governance via constitutional compression and recursion protocols; includes gates enforcing compression and resonance thresholds before downstream execution, without reliance on AI models; diagnostic controls classify and respond to signal/noise across tokens, words, and messages; generates lineage-bound digital artifacts cryptographically linked to origin cycles, ensuring replication resistance and integrity; civic interfaces display compression proofs and integrity metrics for audit, verification, and digital licensing; platform as a service for signal authentication, noise collapse, and digital asset generation; built for scalable offline operation without cloud or model dependency; includes diagnostic layers for synchronization, cadence mapping, and reflex-triggered behaviors; enables resonance analysis, session fidelity scoring, and origin verification; enforces compression governance via behavioral rhythm over model inference.”
-
----
-
-## ✅ Filing Details  
-- **USPTO Status:** Application formally submitted & acknowledged  
-- **Trademark:** `MO§ES™` *(distinctive with section sign §)*  
-- **Class:** 042 — *SaaS, PaaS, digital protocol systems*  
-- **Filing Basis:** Section 1(b) – “Intent to Use”
-- **Serial Number:** 99408355
 
 ---
 
@@ -54,8 +53,8 @@ MO§ES™ is now positioned for:
 - Signal Economy validation and rollout
 
 ---
+© 2025 ElloCello LLC  
+Proprietary Use License v0.1 — Public-facing proof only.  
 
-**Filed by:**  
-Deric J. McHenry / ElloCello LLC  
-**Contact:** deric.mchenry@gmail.com
+Contact: burnmydays@proton.me
 
