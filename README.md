@@ -16,7 +16,7 @@ This repository contains a consolidated public-facing PDF with proof of filings:
 ---
 
 ## 🔑 Integrity
-- SHA-256 hash:  
+- SHA-256 hash:  895ab90c80aa0c49c76a4d62bd58893929846e708eb11c4df43835b7bb0fd13b  reciepts.pdf
 
 
 
